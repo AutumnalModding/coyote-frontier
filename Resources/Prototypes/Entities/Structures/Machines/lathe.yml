@@ -152,6 +152,7 @@
     - NFEvaSuitCommon # Frontier
     - AACTableStatic # DeltaV - AAC Tablets
     - CSPlumbingStatic # CS - showers, sinks, drains
+    - CSFolderStatic # Coyote - folders and clipboard
   - type: EmagLatheRecipes
     emagStaticPacks:
     - NfsdAmmoStatic # Frontier: SecurityAmmoStatic<NfsdAmmoStatic
@@ -238,6 +239,7 @@
     - NFService # Frontier
     - NFScience # Frontier
     - NFPouches # Frontier
+    - NFProtolathe # Frontier
   - type: EmagLatheRecipes
     emagDynamicPacks:
     - NfsdAmmoStatic # Frontier: SecurityAmmo<NfsdAmmoStatic
@@ -313,6 +315,7 @@
     - NFEngineeringBoards # Frontier
     - NFMedicalBoards # Frontier
     - NFServiceBoards # Frontier
+    - NFEngineeringBoardsCircuitImprinter # Frontier
   - type: EmagLatheRecipes
     emagDynamicPacks: [] # Frontier: empty list
     # - SecurityBoards # Frontier

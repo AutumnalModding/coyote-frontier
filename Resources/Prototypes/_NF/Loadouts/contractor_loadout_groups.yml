@@ -230,6 +230,7 @@
   - ContractorClothingBackpack
   - ContractorClothingBackpackDuffel
   - ContractorClothingBackpackSatchel
+  - ContractorClothingBackpackSatchelLeather # Coyote
   - ContractorClothingBackpackMessenger
   - ContractorClothingBackpackCaptain
   - ContractorClothingBackpackDuffelCaptain
@@ -495,6 +496,8 @@
   - ContractorClothingShoesBling
   fallbacks:
   - ContractorClothingShoesColorBlack
+  subgroups:
+  - CoyoteShoes
 
 - type: loadoutGroup
   id: ContractorHead
@@ -809,6 +812,7 @@
   - ContractorGoldRing
   - ContractorAACTablet
   - ContractorBasketball
+  - ContractorTennisball # Coyote. Woof.
   - ContractorFootball
   - ContractorBeachBall
   - ContractorCrayonBox
@@ -824,6 +828,8 @@
   - ContractorMysterySpaceBladeBox
   - ContractorHoloGraffitiProjector # Punkish (might be annoying)
   - ContractorCrayonMagic
+  - ContractorSprayPainterMagic
+  - ContractorAccessConfigurator # Coyote: Add Civilian Access Configurator
     # Bureaucracy
   - ContractorBoxFolderMedicalDoctor
   - ContractorBrbSign

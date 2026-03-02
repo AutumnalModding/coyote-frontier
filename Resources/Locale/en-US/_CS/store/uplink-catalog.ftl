@@ -1,7 +1,19 @@
 # region Security
 # Weapons
-uplink-security-chort-name = MG-60 "Chort" MAMG Circuit Board
+uplink-security-chort-name = MG-60 "Chort" MAMG Circuit Board (EXTREME THREAT USE ONLY)
 uplink-security-chort-desc = A machine printed circuit board for an MG-60 "Chort" Magnetically Assisted Machine Gun. It prints ammo on the fly, so, no worries there!
+
+uplink-security-marine-bronze-name = TSF bronze tactical suit
+uplink-security-marine-bronze-desc = A surplus marine hardsuit, issued for patrol duty. This bronze variant has cadet rank markings.
+
+uplink-security-marine-silver-name = TSF silver tactical suit
+uplink-security-marine-silver-desc = A surplus marine hardsuit, issued for patrol duty. This silver variant has officer rank markings.
+
+uplink-security-marine-gold-name = TSF gold tactical suit
+uplink-security-marine-gold-desc = A surplus marine hardsuit, issued for patrol duty. This gold variant has supervisor rank markings.
+
+uplink-security-marine-medic-name = TSF corpsman tactical suit
+uplink-security-marine-medic-desc = A surplus marine hardsuit, issued for patrol duty. This brighter variant has brigmedic rank markings.
 
 # region Syndicate
 # Ammo

@@ -22,6 +22,9 @@ uplink-pirate-rcd-desc = A blackmarket construction device which can place/remov
 uplink-nfsd-rcd-name = NFSD RCD
 uplink-nfsd-rcd-desc = A security construction device which can place/remove walls, floors, and airlocks quickly. It has a slot to swipe ID cards.
 
+uplink-advanced-radar-name = Advanced Radar Computer
+uplink-advanced-radar-desc = This advanced radar board lets you detect far away objects for an increased tactical advantage.
+
 uplink-pirate-ship-cannon-name = Pirate Ship Cannon
 uplink-pirate-ship-cannon-desc = A spare pirate cannon fresh out the steel works, great for custom shuttles or if you somehow lost the one on your ship, comes flat packed.
 
@@ -59,12 +62,14 @@ uplink-security-cash5000-name = 5,000 Spesos
 uplink-security-cash5000-desc = Cold, hard cash.
 
 uplink-security-cash10000-name = 10,000 Spesos
+uplink-security-cash10000-desc = Cold, hard cash.
 
 uplink-security-cash20000-name = 20,000 Spesos
 
 uplink-security-cash30000-name = 30,000 Spesos
 
 uplink-security-cash100000-name = 100,000 Spesos
+uplink-security-cash100000-desc = Cold, hard cash.
 
 uplink-electric-range-name = Donk Co. Electric Range
 uplink-electric-range-desc = A flatpack used for deploying a Donk Co. electric range

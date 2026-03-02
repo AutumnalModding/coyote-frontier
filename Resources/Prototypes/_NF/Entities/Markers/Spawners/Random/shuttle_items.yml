@@ -117,6 +117,7 @@
     - id: SuitStoragePrivateSecurity
     - id: SuitStorageEVAMercenary
     - id: SuitStorageEVAPrivateSec
+    - id: SuitStorageSurplus
 
 - type: entity
   id: SpawnShuttleGearSuitStorageUnitsMercenary
@@ -175,6 +176,7 @@
       children:
       - id: VendingMachineClothingPunk
       - id: VendingMachineBountyVendPunk
+      - id: VendingMachineArcadia # Coyote: Added to the table as it is no longer contra.
 
 - type: entity
   id: SpawnShuttleVendomatsClothes
