@@ -1,1 +1,1 @@
-item-component-size-Humungous: humungous
+item-component-size-Humungous = humungous
