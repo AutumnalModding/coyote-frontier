@@ -105,12 +105,14 @@
     wideAnimationRotation: -135
     damage:
       types:
-        Blunt: 54
+        Blunt: 18 # coyote: why was it 54???
     soundHit:
       collection: MetalThud
     bluntStaminaDamageFactor: 1.5
   - type: Item
     size: Normal
+  - type: StaminaDamageOnHit # Coyote: Batong.
+    damage: 40 # Slightly less than a stun baton
   - type: Tag
     tags:
     - Truncheon
