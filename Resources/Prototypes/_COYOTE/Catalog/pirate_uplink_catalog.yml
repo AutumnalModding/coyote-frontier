@@ -852,7 +852,7 @@
   cost:
     Doubloon: 8
   categories:
-  - UplinkPirateDeception
+  - UplinkPirateUtility
   conditions:
   - !type:StoreWhitelistCondition
     whitelist:
