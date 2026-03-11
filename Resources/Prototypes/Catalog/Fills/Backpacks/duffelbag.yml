@@ -132,7 +132,7 @@
   components:
   - type: StorageFill
     contents:
-      - id: NFMagazineSubMachineGun35 # Frontier: MagazinePistolSubMachineGun<NFMagazineSubMachineGun35
+      - id: CSMagazineSubMachineGun40 # Frontier: MagazinePistolSubMachineGun<NFMagazineSubMachineGun35 # Coyote: .40 conversion
         amount: 4
       - id: NFMagazineShotgunDrum # Frontier: MagazineShotgun<NFMagazineShotgunDrum
         amount: 4
