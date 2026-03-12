@@ -13,6 +13,6 @@
     steps: 4
     zeroVisible: true
   - type: Gun
-    angleIncrease: 0.8
-    angleDecay: 3.8
+    angleIncrease: 0.9
+    angleDecay: 3.6
     fireRate: 3.2
