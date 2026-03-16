@@ -45,7 +45,7 @@
     - Histamine
     - Blood
     - WeldingFuel
-    - Mercury
+    # - Mercury # Coyote
     - Silver
     - Phenol
     - Ultravasculine
@@ -112,5 +112,5 @@
     - Soysauce
     - TableSalt
     - Chlorine
-    - Mercury
+    # - Mercury # Coyote
     - Fat # Coyote
