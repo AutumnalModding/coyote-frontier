@@ -30,6 +30,7 @@
     - ChangelingSting
     - CogChamp
     - JuiceThatMakesYouWeh
+    - JuiceThatMakesYouHew
   - quantity: 5
     weight: 2
     reagents:
@@ -112,3 +113,4 @@
     - TableSalt
     - Chlorine
     - Mercury
+    - Fat
