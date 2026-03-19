@@ -10,6 +10,8 @@
     NFSpeedLoaderPistol45Rubber: 5
     NFMagazinePistol35Rubber: 5 # Coyote
     NFMagazinePistol45Rubber: 5 # Coyote
+    NFMagazineSubMachineGun35Rubber: 5 # Coyote
+    NFMagazineSubMachineGun45Rubber: 5 # Coyote
     NFMagazineRifle20Rubber: 5 # Coyote
     NFMagazineRifle30Rubber: 5 # Coyote
   # Ammo boxes
