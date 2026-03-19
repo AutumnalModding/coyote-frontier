@@ -150,7 +150,7 @@
   parent: [ NFBaseWeaponSubMachineGunChamber35, NFBaseWeaponFrameSubMachineGunGorlex ]
   name: C-20p
   description: |-
-    An unreleased and strange variant of the iconic weapon used often by syndicate operatives. Uses .35 ammo.
+    A rare variant of the iconic weapon used often by syndicate operatives. Uses .35 ammo.
   components:
   - type: Gun
     projectileSpeed: 35
