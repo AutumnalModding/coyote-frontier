@@ -862,25 +862,25 @@
   color: "#fcf7f9"
   metabolisms:
     Medicine:
-      metabolismRate : 0.125 # Coyote: Slower
+      metabolismRate : 0.1 # Coyote: Slower
       effects:
       - !type:EvenHealthChange
         damage: # Coyote: Same amount overall, just slower.
-          Burn: -0.5
-          Toxin: -0.5
-          Airloss: -0.5
-          Brute: -0.5
+          Burn: -0.4
+          Toxin: -0.4
+          Airloss: -0.4
+          Brute: -0.4
       - !type:HealthChange # Coyote: OD.
         conditions:
         - !type:ReagentThreshold
           min: 40
         damage:
           groups:
-            Burn: 1
-            Airloss: 1
-            Brute: 1
+            Burn: 0.8
+            Airloss: 0.8
+            Brute: 0.8
           types:
-            Poison: 1
+            Poison: 0.8
 
 - type: reagent
   id: Ultravasculine
