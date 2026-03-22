@@ -1,0 +1,18 @@
+- type: listing
+  id: UplinkChameleonProjector
+  name:  uplink-pirate-chameleon-name
+  description: uplink-pirate-chameleon-desc
+  productEntity: ChameleonProjector
+  icon: { sprite: Objects/Devices/chameleon_projector.rsi, state: icon }
+  cost:
+    Doubloon: 30
+  categories:
+    - UplinkPirateUtility
+  conditions:
+    - !type:StoreWhitelistCondition
+      whitelist:
+        tags:
+          - PirateUplink
+    - !type:BuyerJobCondition # Coyote
+      whitelist:
+      - PirateUplink
