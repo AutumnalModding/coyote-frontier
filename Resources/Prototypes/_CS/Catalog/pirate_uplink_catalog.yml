@@ -22,7 +22,7 @@
   name:  uplink-stealth-box-name
   description: uplink-stealth-box-desc
   productEntity: StealthBox
-  icon: { sprite: Structures/Storage/closet.rsi, state: icon }
+  icon: { sprite: Textures/Structures/Storage/closet.rsi, state: icon }
   cost:
     Doubloon: 10
   categories:
