@@ -1,8 +1,8 @@
-using Content.Server.Body.Components;
 using Content.Server.Body.Systems;
 using Content.Server.Consent;
 using Content.Shared._CS.Traits.Abilities;
 using Content.Shared.Actions;
+using Content.Shared.Body.Components;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Popups;
 using Robust.Shared.Audio.Systems;
@@ -53,7 +53,7 @@ public sealed class AphrodesiacBiteSystem : EntitySystem
         }
 
         var solution = new Solution(bite.Reagent, bite.Amount);
-        if (_bloodstream.TryAddToChemicals(target, solution, bloodstream))
+        if (_bloodstream.TryAddToChemicals(target, solution))
             _audio.PlayPvs(bite.Sound, user);
     }
 }
